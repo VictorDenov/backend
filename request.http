@@ -2,8 +2,8 @@ POST http://localhost:3000/todo HTTP/1.1
 Content-Type: application/json
 
 {
-    "title": "TEAMO",
-    "description":"MIREYA"
+    "title": "eras mi amor ",
+    "description":"Jasmin"
 }
 
 
@@ -21,4 +21,4 @@ GET http://localhost:3000/todo HTTP/1.1
 
 ###
 
-DELETE  http://localhost:3000/todo/64cc7a7b5d951a80d8149413 HTTP/1.1
+DELETE  http://localhost:3000/todo/64cc7f515d951a80d8149449 HTTP/1.1
